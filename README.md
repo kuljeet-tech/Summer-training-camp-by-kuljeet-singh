@@ -28,4 +28,4 @@ Warm booting- it refers to the restarting of computer while its already powered 
      7.`cp` – to copy files and directories
      8.`cd` – to change the current directory
    * Each command was explained clearly with practical examples shown in the presentation to ensure everyone could follow along visually and conceptually.
-
+![Screenshot_2025-06-28-12-10-17-94](https://github.com/user-attachments/assets/05bdc67c-f842-494a-89d1-8217d974de3b)
