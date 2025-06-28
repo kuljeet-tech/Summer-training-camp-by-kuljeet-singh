@@ -16,6 +16,7 @@ Warm booting- it refers to the restarting of computer while its already powered 
     Our professor explained how the kernel loads into memory during boot and starts necessary system processes.
 #The shell was introduced as a command-line interface that allows users to interact with the operating system.
     We discussed different types of shells, with a focus on the **Bash shell**, which is most commonly used in Linux.
+    ![IMG_20250628_175921](https://github.com/user-attachments/assets/7119bdc7-4ee3-4e07-9d00-9d2399aece5f)
   All these things were explained with the help of suitable examples so that they were easy to understand for us. 
 #Our professor demonstrated the use of several basic Linux commands. These included:
 
