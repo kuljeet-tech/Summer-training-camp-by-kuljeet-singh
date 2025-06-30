@@ -51,7 +51,7 @@ Overall, Day 3 was packed with essential concepts and practical knowledge, signi
 # Day 4
 On the fourth day of our summer training, we delved into the hardware aspect of computers. The session was both theoretical and practical, giving us hands-on exposure to physical components and their configurations.
 
-Our trainer began by explaining the basic structure of a computer system, including the Central Processing Unit (CPU), Memory Units (RAM/ROM), Storage Devices, Input/Output Devices, Motherboard, and Power Supply Unit (PSU).
+Our lab proffesor began by explaining the basic structure of a computer system, including the Central Processing Unit (CPU), Memory Units (RAM/ROM), Storage Devices, Input/Output Devices, Motherboard, and Power Supply Unit (PSU).
 
 Key topics discussed included:
 
