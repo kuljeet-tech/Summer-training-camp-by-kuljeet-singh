@@ -40,7 +40,8 @@ Following this, we explored MBR (Master Boot Record) and GPT (GUID Partition Tab
 
 Next, we were introduced to the concept of dual booting. Our lab professor demonstrated how two operating systems can be installed on the same machine and booted independently using a boot loader like GRUB. This session was particularly engaging, as we discussed the advantages and risks of dual boot configurations.
 
-In the second half of the session, we covered file and directory permissions in Linux. We learned about user roles (owner, group, others) and permission types (read, write, execute). Using commands like chmod, chown, and ls -l, we practiced modifying and checking file permissions to enhance security and access control.
+In the second half of the session, we covered file and directory permissions in Linux. We learned about user roles (owner, group, others) and permission types (read, write, execute). Using commands like chmod, chown, and ls -l, we practiced modifying and checking file permissions to enhance security and access control.![IMG20250630165817](https://github.com/user-attachments/assets/9e6499f5-a4fb-4235-a58b-13d79004b8b8)
+![IMG20250630165514](https://github.com/user-attachments/assets/a6c343e8-60dc-482c-87a5-0f65ff19ac4b)
 
 Lastly, we were introduced to pipes (|) — a powerful feature in the Linux shell that allows the output of one command to be used as the input of another. Through hands-on examples, we understood how pipes help in chaining commands efficiently to perform complex tasks with simple syntax.
 
