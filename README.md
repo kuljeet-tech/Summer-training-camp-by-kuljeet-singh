@@ -31,4 +31,19 @@ Warm booting- it refers to the restarting of computer while its already powered 
    * Each command was explained clearly with practical examples shown in the presentation to ensure everyone could follow along visually and conceptually.
      I practiced the commands in linux terminal for better understanding
      ![IMG_20250628_121657](https://github.com/user-attachments/assets/a21ce1cf-80a6-461f-83d8-f37d183d5486)
+# Day 3
+On the third day of our summer training program, we delved deeper into the foundational aspects of Linux systems. The session was conducted by our lab professor, who guided us through several important topics crucial for understanding system-level operations.
+
+The day began with an insightful introduction to bare metal installation. We learned how to install an operating system directly onto the hardware without any pre-installed OS or virtualization layer. Our instructor explained the process step-by-step, including how to prepare bootable media and configure BIOS settings for installation.
+
+Following this, we explored MBR (Master Boot Record) and GPT (GUID Partition Table) — two methods used for disk partitioning. The differences between the two were clearly outlined, especially in terms of compatibility, partition limits, and structure. We learned that while MBR supports up to four primary partitions and is compatible with older systems, GPT is more modern, supports larger disks, and allows for unlimited partitions (with practical limits based on OS).
+
+Next, we were introduced to the concept of dual booting. Our lab professor demonstrated how two operating systems can be installed on the same machine and booted independently using a boot loader like GRUB. This session was particularly engaging, as we discussed the advantages and risks of dual boot configurations.
+
+In the second half of the session, we covered file and directory permissions in Linux. We learned about user roles (owner, group, others) and permission types (read, write, execute). Using commands like chmod, chown, and ls -l, we practiced modifying and checking file permissions to enhance security and access control.
+
+Lastly, we were introduced to pipes (|) — a powerful feature in the Linux shell that allows the output of one command to be used as the input of another. Through hands-on examples, we understood how pipes help in chaining commands efficiently to perform complex tasks with simple syntax.
+
+Overall, Day 3 was packed with essential concepts and practical knowledge, significantly improving our understanding of Linux system operations. The hands-on approach and real-time demonstrations helped solidify these concepts and sparked a greater interest in exploring Linux further.
+
 
