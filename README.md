@@ -48,4 +48,50 @@ Lastly, we were introduced to pipes (|) — a powerful feature in the Linux shel
 
 Overall, Day 3 was packed with essential concepts and practical knowledge, significantly improving our understanding of Linux system operations. The hands-on approach and real-time demonstrations helped solidify these concepts and sparked a greater interest in exploring Linux further.
 
+# Day 4
+On the fourth day of our summer training, we delved into the hardware aspect of computers. The session was both theoretical and practical, giving us hands-on exposure to physical components and their configurations.
+
+Our trainer began by explaining the basic structure of a computer system, including the Central Processing Unit (CPU), Memory Units (RAM/ROM), Storage Devices, Input/Output Devices, Motherboard, and Power Supply Unit (PSU).
+
+Key topics discussed included:
+
+Motherboard: The main circuit board that connects all components together. The motherboard have its various parts-
+1. CPU Socket: This is where the central processing unit (CPU) is installed. It's a critical component as the CPU is the "brain" of the computer. 
+2. RAM Slots: These slots are where Random Access Memory (RAM) modules are inserted. RAM is used for temporary data storage and is essential for smooth multitasking. 
+3. Expansion Slots: These slots (like PCI, PCIe, and AGP) allow users to add expansion cards for various functionalities like graphics cards, sound cards, or network cards. 
+4. Chipset: The chipset is a set of chips that manage communication between the CPU, memory, and other components. It often includes the Northbridge and Southbridge. 
+5. BIOS Chip: The Basic Input/Output System (BIOS) is a chip that contains firmware instructions for starting up the computer and managing basic hardware operations. 
+6. CMOS Battery: This small battery powers the CMOS chip, which stores the BIOS settings and system configuration even when the computer is off. 
+7. Connectors: These include SATA connectors for storage devices (SSDs and hard drives), USB ports, and power connectors for supplying power to the motherboard and its components. 
+8. Northbridge and Southbridge: The northbridge and southbridge handles the communication between cpu,ram and graphic card.  
+![640px-Computer-motherboard](https://github.com/user-attachments/assets/b8cddd19-6b19-444a-bc21-ce0a642de076)
+
+CPU (Processor): Its role as the brain of the computer, how it processes instructions, and differences in cores and threads.
+
+RAM (Random Access Memory): Temporary memory used for quick data access. We were explained its importance in multitasking.
+
+Storage Devices: Comparison between HDDs, SSDs, and newer NVMe drives.
+
+Power Supply Unit (PSU): How it distributes power to all parts of the computer.
+
+Peripheral Devices: Understanding how input (keyboard, mouse) and output devices (monitor, printer) interface with the system.
+
+We also learned how to assemble and disassemble a PC, identify different ports and connectors (USB, HDMI, SATA), and handle components safely to prevent static damage.
+
+Hands-On Activities:
+Identifying different hardware parts from a dismantled CPU.
+
+Observing the installation of RAM and CPU on the motherboard.
+
+Viewing internal connections and power distribution.
+
+Learning Outcomes:
+Gained practical knowledge of major computer hardware components.
+
+Understood the interconnection between different parts.
+
+Learned the basics of PC assembly and troubleshooting.
+
+Conclusion:
+The Day 4 session significantly improved our understanding of the physical components of a computer system. This knowledge will serve as a solid foundation for more advanced topics in the coming days.
 
