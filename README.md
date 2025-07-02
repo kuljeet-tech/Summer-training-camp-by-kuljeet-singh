@@ -93,5 +93,115 @@ Understood the interconnection between different parts.
 Learned the basics of PC assembly and troubleshooting.
 
 Conclusion:
-The Day 4 session significantly improved our understanding of the physical components of a computer system. This knowledge will serve as a solid foundation for more advanced topics in the coming days.
+The Day 4 session significantly improved our understanding of the physical components of a computer system. This knowledge will serve as a solid foundation for more advanced topics in the comm
+# Day5
+The fifth day of my summer training was mainly based on the troubleshooting.
+# 🔧 1. PC Troubleshooting (Hardware)
+This type of troubleshooting means that to deal with the problems in hardware of the system.
+-Symptoms of hardware issues: such as a system not starting, no display, beeping sounds, overheating, or slow performance.
+-Basic diagnostic steps: including checking power connections, RAM seating, cleaning dust from fans, and verifying the hard drive.
+-BIOS usage: Understanding how to access and use BIOS to check whether the system is detecting the hardware properly.
+
+
+# 2. Network Troubleshooting
+The next segment focused on resolving network-related issues. We learned how a proper network setup works and how to handle problems when:
+-There’s no internet access
+-A device is connected but can’t browse
+-IP conflicts occur
+-DNS or gateway issues arise
+
+Key tools and commands introduced:
+-ipconfig – to view IP settings
+-ping – to test connectivity
+-tracert – to check route to a server
+-etstat – to view active connections
+
+# 3. Software Troubleshooting
+In the final part of the day, we focused on software issues, which are the most frequent problems faced by users. These include:
+-Application crashes
+-System freezes
+-Slow boot-up
+-Unresponsive programs
+-Virus/malware issues
+
+Troubleshooting techniques covered:
+-Using Task Manager to monitor performance and kill unresponsive applications
+-Managing startup programs to reduce boot time
+-Performing System Restore to roll back changes
+-Reinstalling and updating faulty applications
+-Running antivirus scans and using Windows Security tools
+
+# Conclusion:
+Day 5 of the summer training was highly practical, informative, and skill-oriented. The balance between theory and real-world application made the learning process engaging and effective. I now feel more confident in handling basic troubleshooting tasks for PCs, networks, and software — essential skills for anyone in the IT field
+
+# Day 6
+On the sixth day of our training we were taught about the following things:  
+# 1. BSOD (Blue Screen of Death):
+We began by discussing BSOD, one of the most serious errors encountered in Windows systems. It usually indicates a critical system failure, often related to hardware, drivers, or kernel errors.
+Key learnings:
+-Common causes: Faulty RAM, corrupted drivers, overheating, disk errors, or malware.
+-Reading error codes and stop messages.
+-using the tool “WhoCrashed” or Windows Event Viewer to analyze crash reports.
+-Steps to prevent BSOD: Updating drivers, checking hardware, and scanning for malware.
+![BSOD](https://github.com/user-attachments/assets/038cc9d2-ed78-4d57-ae5b-fc57ddfc33ec)
+
+
+# 2. Safe Mode:
+We learned about Safe Mode, a diagnostic boot mode in Windows that starts the system with minimal drivers and services.
+Key uses:
+-Uninstalling problematic software or drivers.
+-Running antivirus scans without interference.
+-Performing system restores or edits when normal boot fails.
+
+# Types of safe mode
+-Safe Mode
+-Safe Mode with Networking
+-Safe Mode with Command Prompt
+
+# 3. Recovery Tools:
+Windows provides several built-in recovery tools for restoring system stability. We explored:
+-Startup Repair – fixes boot-related issues.
+-System Restore – rolls back Windows to a previous working state.
+-System Image Recovery – restores the PC from a backup image.
+-Command Prompt – for advanced recovery commands.
+-Reset This PC – to reset or refresh Windows while keeping or removing files.
+
+# 4. OS Repair Techniques:
+We discussed how to repair a corrupt operating system using:
+-SFC (System File Checker) and DISM (Deployment Imaging Service and Management Tool) commands.
+-Windows installation media for repairing or reinstalling the OS.
+-Performing in-place upgrades to fix system files without losing data.
+-We practiced running these commands and understanding when each is used.
+
+# 5. Where and How to Store Windows Backups:
+The instructor stressed the importance of backing up important data and system configurations.
+
+# Backup types discussed:
+-File History (for personal files)
+-System Image Backups (for full system recovery)
+-OneDrive or external drives for automatic backups
+
+# Recommended locations:
+-External hard drives or SSDs
+-Network drives or cloud storage
+-A separate disk partition (not the one where Windows is installed)
+
+# 6. RJ-45 Connector:
+We concluded with a hardware component – RJ-45, a standard connector used for Ethernet networking.
+
+Key highlights:
+Structure and pin configuration (8P8C format)
+Types of Ethernet cables (Straight-through vs. Crossover)
+Usage in LAN setup for routers, switches, and PCs
+Crimping demo: how to attach RJ-45 to an Ethernet cable using a crimping tool
+We also observed color-coding standards (T568A and T568B) and checked for proper signal transmission using a cable tester.
+
+Conclusion:
+Day 6 was one of the most technically insightful days of our training. We not only learned how to handle critical Windows errors but also explored how to prevent data loss and maintain system stability. The combination of system-level knowledge and networking basics made this session especially valuable for anyone pursuing IT or system administration.
+
+
+
+
+
+
 
